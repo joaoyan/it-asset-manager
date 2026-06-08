@@ -65,15 +65,6 @@ Projeto pensado para simular o dia a dia de equipes como:
 
 ---
 
-## 📁 Estrutura do Projeto
-
-it-asset-manager/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
----
-
 ## 📌 Próximas Melhorias
 
 - [ ] Exportar lista para CSV
