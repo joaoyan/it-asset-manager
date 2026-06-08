@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IT Asset Manager</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<div class="container">
+
+<header>
+<h1>💻 IT Asset Manager</h1>
+<p>Controle de Equipamentos de TI</p>
+</header>
+
+<section class="asset-form">
+
+<h2>Novo Equipamento</h2>
+
+<form id="assetForm">
+
+<input
+type="text"
+id="patrimonio"
+placeholder="Patrimônio"
+required
+>
+
+<select id="tipo" required>
+<option value="">Tipo do Equipamento</option>
+<option>Notebook</option>
+<option>Desktop</option>
+<option>Monitor</option>
+<option>Impressora</option>
+<option>Servidor</option>
+</select>
+
+<input
+type="text"
+id="responsavel"
+placeholder="Responsável"
+required
+>
+
+<input
+type="text"
+id="setor"
+placeholder="Setor"
+required
+>
+
+<select id="status" required>
+<option value="">Status</option>
+<option>Em uso</option>
+<option>Estoque</option>
+<option>Manutenção</option>
+</select>
+
+<button type="submit">
+Cadastrar Equipamento
+</button>
+
+</form>
+
+</section>
+
+<section class="assets-list">
+
+<h2>Equipamentos</h2>
+
+<div id="assetsContainer"></div>
+
+</section>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
