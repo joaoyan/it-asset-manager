@@ -38,6 +38,9 @@ Ideal para estudos de JavaScript aplicado a cenários corporativos de Help Desk 
 - **LocalStorage API** — persistência de dados no navegador
 
 ---
+## 🖼️ Preview
+
+<img width="1365" height="527" alt="image" src="https://github.com/user-attachments/assets/856df2ea-6d5d-4086-ad24-d4e00bea5175" />
 
 ## 🚀 Como Usar
 
