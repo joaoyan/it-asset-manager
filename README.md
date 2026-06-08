@@ -9,12 +9,6 @@
 
 ---
 
-## 🔗 Demo
-
-👉 [Acesse o projeto ao vivo](https://joaoyan.github.io/it-asset-manager/)
-
----
-
 ## 📋 Sobre o Projeto
 
 O **IT Asset Manager** simula um sistema real de inventário de ativos utilizado por equipes de suporte técnico. Permite cadastrar, acompanhar e gerenciar equipamentos de TI com controle de responsável, setor e status operacional — tudo armazenado localmente no navegador, sem necessidade de backend.
