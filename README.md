@@ -66,6 +66,7 @@ Projeto pensado para simular o dia a dia de equipes como:
 ---
 
 ## 📁 Estrutura do Projeto
+
 it-asset-manager/
 ├── index.html
 ├── style.css
@@ -75,7 +76,6 @@ it-asset-manager/
 
 ## 📌 Próximas Melhorias
 
-- [ ] Filtro e busca por equipamento
 - [ ] Exportar lista para CSV
 - [ ] Campo de data de aquisição
 - [ ] Dashboard com totais por status
