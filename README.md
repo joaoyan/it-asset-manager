@@ -2,9 +2,10 @@
 
 > Sistema de inventário e controle patrimonial de equipamentos de TI — desenvolvido com HTML, CSS e JavaScript puro.
 
-![Status](https://img.shields.io/badge/status-ativo-brightgreen)
-![Tech](https://img.shields.io/badge/stack-HTML%20%7C%20CSS%20%7C%20JS-blue)
-![License](https://img.shields.io/badge/licença-MIT-lightgrey)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge)
 
 ---
 
